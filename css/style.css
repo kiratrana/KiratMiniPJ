@@ -81,7 +81,7 @@ body{
  #container1{
     height: 85.4vh;
     width: 100%;                                             
-    background-image: url("https://ik.imagekit.io/wyk5gj6wa/kirat/5.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1673881972206");
+    background-image: url(https://ik.imagekit.io/wyk5gj6wa/kirat/5.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1673881972206);
     opacity: 1.1;
     background-size: 100% 100%;
     display: flex;
